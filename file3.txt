@@ -5,3 +5,5 @@ Mais algumas linhas
 
 para o ficheiro
 file3.txt
+
+Fiz uma alteração no file3.txt (Branch NovaFeature)
