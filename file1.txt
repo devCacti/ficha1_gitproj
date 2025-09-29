@@ -1,3 +1,5 @@
 Este é o exemplo de um fichiero de texto file1
 Fiz uma alteração dentro do ficheiro, sem apagar o anterior.
 Alterações neste ficheiro atraves da branch "NovaFeature"
+Alteração no branch NOVAFEATURE
+
